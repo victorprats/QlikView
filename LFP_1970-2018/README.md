@@ -3,6 +3,6 @@
 * Dades de la lliga espanyola de futbol del 1970 fins 2018.
 
 ![](images/LFP_1970-2018_1(Menu).PNG)
-![](images/LFP_1970-2018_2(Classificacions).PNG)
+![](images/LFP_1970-2018_2(Classificacions_1).PNG)
 
 :construction: :construction: :construction: :eyes: :construction: :construction: :construction:
