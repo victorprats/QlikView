@@ -4,5 +4,6 @@
 
 ![](images/LFP_1970-2018_1(Menu).PNG)
 ![](images/LFP_1970-2018_2(Classificacions_1).PNG)
+![](images/LFP_1970-2018_2(Classificacions_2).PNG)
 
 :construction: :construction: :construction: :eyes: :construction: :construction: :construction:
