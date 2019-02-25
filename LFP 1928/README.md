@@ -5,5 +5,6 @@
 ![](images/LFP_1928(Menu).PNG)
 ![](images/LFP_1928(Classificacions_1).PNG)
 ![](images/LFP_1928(Classificacions_2).PNG)
+![](images/LFP_1928(Copes_4).PNG)
 
 :construction: :construction: :construction: :eyes: :construction: :construction: :construction:
