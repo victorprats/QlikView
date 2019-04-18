@@ -1,6 +1,6 @@
-<H1>LFP 1928</H1>
+<H1>LFP 1928</H1> 
 
-* Dades de la lliga espanyola de futbol del 1970 fins l'actualitat.
+* Dades de la lliga espanyola de futbol del 1970 fins l'actualitat. :soccer: :trophy:
 
 ![](images/LFP_1928(Menu).PNG)
 ![](images/LFP_1928(Clubs_1).PNG)
